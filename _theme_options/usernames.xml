@@ -18,7 +18,7 @@ https://github.com/pajarorrojo/es-theme-PlayStation-X
 		<theme.nick ifSubset="system-username:laracroft">Lara Croft</theme.nick>
 		<theme.nick ifSubset="system-username:larry">Larry Laffer</theme.nick>
 		<theme.nick ifSubset="system-username:linkzelda">Link</theme.nick>
-		<theme.nick ifSubset="system-username:megaman">Mega-Man</theme.nick>
+		<theme.nick ifSubset="system-username:megaman">Harmonic</theme.nick>
 		<theme.nick ifSubset="system-username:nathandrake">Nathan Drake</theme.nick>
 		<theme.nick ifSubset="system-username:projectarcade">ProjectArcade</theme.nick>
 		<theme.nick ifSubset="system-username:recalbox">Recalbox</theme.nick>
